@@ -189,7 +189,7 @@ describe('Restful Booker API Scenarios', () => {
                 ...validBookingData,
                 bookingdates: {
                     checkin: '01-05-2024', // Wrong format with day first
-                    checkout: '2024-05-05'
+                    checkout: '2021-13-45'
                 }
             };
 
